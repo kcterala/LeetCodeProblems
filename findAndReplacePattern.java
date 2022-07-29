@@ -12,7 +12,7 @@ class Solution {
     }
     private static String checkString(String pattern){
         Map<Character,Integer> map = new HashMap<Character,Integer>();
-        int count = 0;
+        int count = 122;
         StringBuilder check = new StringBuilder("");
         for(int i=0;i<pattern.length();i++){
             char ch = pattern.charAt(i);
