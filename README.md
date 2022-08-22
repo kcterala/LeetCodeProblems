@@ -1,3 +1,3 @@
-# DailyLeetCode
+# LeetCode Problems
 
-You can find solutions for the Daily Challenge in Leetcode.
+You can find solutions for the Leetcode Problems.
